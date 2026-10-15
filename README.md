@@ -27,8 +27,9 @@ Personal portfolio site showcasing my projects and background.
 
 ## Education
 
+- DAW (Web Application Development) — In progress
+- IFCD0210 Web Application Development Certificate — Grade: 9.64/10
 - Full Stack Master — Nuclio Digital School (MERN Stack)
-- DAW (Web Application Development) — Grade: 9.64/10
 - PCEP — Python Certified Entry-Level Programmer
 - Bachelor's in Business Administration
 
